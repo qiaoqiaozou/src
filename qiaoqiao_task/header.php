@@ -13,12 +13,12 @@
 
 <body>
         <header class="part1">
-            <div class="head"><a href="index.html"><img src="images/2-e1694169123116.png" alt="logo"></a></div>
+            <div class="head"><a href="ex11.php"><img src="images/2-e1694169123116.png" alt="logo"></a></div>
             <nav class="nav">
-                <a href="home.php" class="link">Home</a>
-                <a href="menu.php" class="link">Menu</a>
-                <a href="aboutUs.php" class="link">About Us</a>
-                <a href="contact.php" class="link">Contact</a>
+                <a href="ex11.php" class="link">ex1</a>
+                <a href="ex2.php" class="link">ex2</a>
+                <a href="ex3.php" class="link">ex3</a>
+                <a href="ex4.php" class="link">ex4</a>
             </nav>
             <button class="button"><a href="#" class="link">Buy Now</a></button>
         </header>
