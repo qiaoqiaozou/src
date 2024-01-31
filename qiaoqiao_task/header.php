@@ -13,9 +13,9 @@
 
 <body>
         <header class="part1">
-            <div class="head"><a href="ex11.php"><img src="images/2-e1694169123116.png" alt="logo"></a></div>
+            <div class="head"><a href="Ex11.php"><img src="images/2-e1694169123116.png" alt="logo"></a></div>
             <nav class="nav">
-                <a href="ex11.php" class="link">ex1</a>
+                <a href="Ex11.php" class="link">ex1</a>
                 <a href="ex2.php" class="link">ex2</a>
                 <a href="ex3.php" class="link">ex3</a>
                 <a href="ex4.php" class="link">ex4</a>
