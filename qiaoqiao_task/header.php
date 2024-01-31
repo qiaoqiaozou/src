@@ -19,6 +19,7 @@
                 <a href="ex2.php" class="link">ex2</a>
                 <a href="ex3.php" class="link">ex3</a>
                 <a href="ex4.php" class="link">ex4</a>
+                <a href="ex5.php" class="link">ex5</a>
             </nav>
             <button class="button"><a href="#" class="link">Buy Now</a></button>
         </header>
